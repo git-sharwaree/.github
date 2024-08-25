@@ -13,5 +13,3 @@ It is home to a bunch of of eclectic folks who are passionate about _Connecting_
 ### What We do 👨🏻‍💻:
 
 From workshops to conferences and meetups, we organize a diverse array of tech centric events.
-
-
