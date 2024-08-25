@@ -1,12 +1,15 @@
-## Hi there, we're ACES 👋
+# ACES RMDSSOE
+## Hey there, we're ACES!
 
-<!--
+### Who we are 🚀 -
 
-**Here are some ideas to get you started:**
+***ACES*** is the official student association of the Computer Department at RMDSSOE, Warje, Pune. 
+It is home to a bunch of of eclectic folks who are passionate about _Connecting_, _Creating_, and _Collaborating_.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Vision 🎯 :
+
+***ACES*** is devoted towards offering students with distinctive opportunities to explore their technical interests, develop their individual talents, and contribute to the growth of our department and the broaden tech community.
+
+### What We do 👨🏻‍💻:
+
+From workshops to conferences and meetups, we organize a diverse array of tech centric events.
