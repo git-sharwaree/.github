@@ -4,11 +4,11 @@
 ### Who we are 🚀 -
 
 ***ACES*** is the official student association of the Computer Department at RMDSSOE, Warje, Pune. 
-It is home to a bunch of of eclectic folks who are passionate about _Connecting_, _Creating_, and _Collaborating_.
+It is home to a bunch of eclectic folks who are passionate about _Connecting_, _Creating_, and _Collaborating_.
 
 ### Our Vision 🎯 :
 
-***ACES*** is devoted towards offering students with distinctive opportunities to explore their technical interests, develop their individual talents, and contribute to the growth of our department and the broaden tech community.
+***ACES*** is devoted towards offering students with distinctive opportunities to explore their technical interests, develop their individual talents, and contribute to the growth of our department and the broader tech community.
 
 ### What We do 👨🏻‍💻:
 
